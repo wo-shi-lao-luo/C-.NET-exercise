@@ -1,0 +1,13 @@
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolFromsApp\obj\Debug\SchoolFromsApp.csprojAssemblyReference.cache
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolFromsApp\obj\Debug\SchoolFromsApp.Properties.Resources.resources
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolFromsApp\obj\Debug\SchoolFromsApp.csproj.GenerateResource.cache
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolFromsApp\obj\Debug\SchoolFromsApp.csproj.CoreCompileInputs.cache
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolFromsApp\bin\Debug\SchoolFromsApp.exe.config
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolFromsApp\bin\Debug\SchoolFromsApp.exe
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolFromsApp\bin\Debug\SchoolFromsApp.pdb
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolFromsApp\bin\Debug\SchoolLibrary.dll
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolFromsApp\bin\Debug\SchoolLibrary.pdb
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolFromsApp\obj\Debug\SchoolFromsApp.csproj.CopyComplete
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolFromsApp\obj\Debug\SchoolFromsApp.exe
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolFromsApp\obj\Debug\SchoolFromsApp.pdb
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolFromsApp\obj\Debug\SchoolFromsApp.Form1.resources

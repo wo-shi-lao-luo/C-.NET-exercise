@@ -1,0 +1,8 @@
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolLibrary\bin\Debug\netstandard1.4\SchoolLibrary.deps.json
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.csprojAssemblyReference.cache
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.AssemblyInfo.cs
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolLibrary\bin\Debug\netstandard1.4\SchoolLibrary.dll
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolLibrary\bin\Debug\netstandard1.4\SchoolLibrary.pdb
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.dll
+C:\Github\C-.NET-exercise\tryClass\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.pdb

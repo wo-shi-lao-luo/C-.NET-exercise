@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SchoolLibrary
 {
-    class School
+    public class School
     {
         public string Name { get; set; }
         public string Address { get; set; }
@@ -34,17 +34,11 @@ namespace SchoolLibrary
             }
         }
 
-        public School()
-        {
-            Name = "Untitled School";
-            PhoneNumber = "111-1111";
-        }
-
-        public School(string SchoolName, string SchoolPhoneNumber)
-        {
-            Name = SchoolName;
-            PhoneNumber = SchoolPhoneNumber;
-        }
+        //public School(string SchoolName, string SchoolPhoneNumber)
+        //{
+        //    Name = SchoolName;
+        //    PhoneNumber = SchoolPhoneNumber;
+        //}
 
         //public float AverageThreeScores(float a, float b, float c)
         //{
@@ -62,12 +56,12 @@ namespace SchoolLibrary
             return result;
         }
 
-        public override ToString() 
+        public override string ToString()
         {
             var sb = new StringBuilder();
             sb.AppendLine(this.Name);
             sb.AppendLine(this.Address);
-            sb.AppendLine(City);
+            sb.Append(City);
             sb.Append(", ");
             sb.Append(State);
             sb.Append("  ");

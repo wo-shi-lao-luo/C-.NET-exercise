@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SchoolApp",
+    "\\SchoolApp\\SchoolLibrary",
+    "\\SchoolApp\\SchoolLibrary\\bin",
+    "\\SchoolApp\\SchoolLibrary\\Elementary",
+    "\\SchoolApp\\SchoolLibrary\\obj",
+    "\\SchoolApp\\SchoolLibrary\\University"
+  ],
+  "SelectedNode": "\\SchoolApp\\SchoolLibrary\\School.cs",
+  "PreviewInSolutionExplorer": false
+}
