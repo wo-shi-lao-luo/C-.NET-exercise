@@ -4,10 +4,9 @@
     "\\SchoolApp",
     "\\SchoolApp\\SchoolLibrary",
     "\\SchoolApp\\SchoolLibrary\\bin",
-    "\\SchoolApp\\SchoolLibrary\\Elementary",
     "\\SchoolApp\\SchoolLibrary\\obj",
     "\\SchoolApp\\SchoolLibrary\\University"
   ],
-  "SelectedNode": "\\SchoolApp\\SchoolLibrary\\School.cs",
+  "SelectedNode": "\\SchoolApp\\SchoolLibrary",
   "PreviewInSolutionExplorer": false
 }

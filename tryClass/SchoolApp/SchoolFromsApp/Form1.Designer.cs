@@ -43,6 +43,8 @@
             this.textPhone = new System.Windows.Forms.TextBox();
             this.textTwitter = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.btnTestTeacher = new System.Windows.Forms.Button();
+            this.btnTestStudent = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -160,19 +162,41 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(86, 379);
+            this.button1.Location = new System.Drawing.Point(43, 379);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(158, 23);
             this.button1.TabIndex = 14;
             this.button1.Text = "Submit";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // btnTestTeacher
+            // 
+            this.btnTestTeacher.Location = new System.Drawing.Point(43, 422);
+            this.btnTestTeacher.Name = "btnTestTeacher";
+            this.btnTestTeacher.Size = new System.Drawing.Size(158, 23);
+            this.btnTestTeacher.TabIndex = 15;
+            this.btnTestTeacher.Text = "Test Teacher";
+            this.btnTestTeacher.UseVisualStyleBackColor = true;
+            this.btnTestTeacher.Click += new System.EventHandler(this.btnTestTeacher_Click);
+            // 
+            // btnTestStudent
+            // 
+            this.btnTestStudent.Location = new System.Drawing.Point(43, 451);
+            this.btnTestStudent.Name = "btnTestStudent";
+            this.btnTestStudent.Size = new System.Drawing.Size(158, 23);
+            this.btnTestStudent.TabIndex = 16;
+            this.btnTestStudent.Text = "Test Student";
+            this.btnTestStudent.UseVisualStyleBackColor = true;
+            this.btnTestStudent.Click += new System.EventHandler(this.btnTestStudent_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(460, 430);
+            this.ClientSize = new System.Drawing.Size(460, 527);
+            this.Controls.Add(this.btnTestStudent);
+            this.Controls.Add(this.btnTestTeacher);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textTwitter);
             this.Controls.Add(this.textPhone);
@@ -212,6 +236,8 @@
         private System.Windows.Forms.TextBox textPhone;
         private System.Windows.Forms.TextBox textTwitter;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnTestTeacher;
+        private System.Windows.Forms.Button btnTestStudent;
     }
 }
 
