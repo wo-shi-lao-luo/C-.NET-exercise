@@ -50,8 +50,8 @@ namespace SchoolFromsApp
         private void btnTestTeacher_Click(object sender, EventArgs e)
         {
             var teacher = new Teacher();
-            var gp = teacher.ComputeGradeAverage();
-            MessageBox.Show("The teacher's grade average is " + gp);
+            var gp = teacher.PrintSomething();
+            MessageBox.Show(gp);
         }
 
         private void btnTestStudent_Click(object sender, EventArgs e)
