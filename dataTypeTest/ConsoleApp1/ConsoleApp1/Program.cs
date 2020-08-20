@@ -38,5 +38,10 @@ namespace ConsoleApp1
                 $"\"{palindrome}\" is NOT a palindrome.");
             }
         }
+
+        public Boolean Test(Boolean input)
+        {
+
+        }
     }
 }
